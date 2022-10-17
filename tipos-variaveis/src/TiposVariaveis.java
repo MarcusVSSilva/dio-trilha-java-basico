@@ -5,5 +5,9 @@ public class TiposVariaveis {
         
         System.out.println("Salário R$: " + salarioMinimo);
 
+        final double VALOR_DE_PI = 3.14; 
+
+        System.out.println("Valor de PI: " + VALOR_DE_PI);
+
     }
 }
